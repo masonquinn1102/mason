@@ -1,0 +1,7 @@
+# Facebook Page UIDs for reel scraping.
+# Add one UID per line. Do not include profile URLs or extra text.
+# Example values are placeholders for initial testing.
+
+123456789012345
+987654321098765
+112233445566778
